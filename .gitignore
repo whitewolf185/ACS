@@ -1,5 +1,17 @@
 #folders
 /tmp/
+/lab2/task3/sage-plots-for*/
+/lab2/task3/.ipynb_checkpoints*/
+/.idea/
 
 #files
 *test*
+*.log
+*.aux
+*.gz
+*.sout
+*.scmd
+*.sage*
+*.out
+*.dvi
+
